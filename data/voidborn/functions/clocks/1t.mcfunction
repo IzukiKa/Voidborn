@@ -1,0 +1,1 @@
+scoreboard players add @a[tag=void.void_shift] void.voidshift_timer 1

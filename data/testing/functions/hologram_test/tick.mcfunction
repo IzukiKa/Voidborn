@@ -1,0 +1,2 @@
+function testing:hologram_test/summon_hologram
+function testing:hologram_test/teleport_hologram

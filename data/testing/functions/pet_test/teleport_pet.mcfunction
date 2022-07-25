@@ -1,0 +1,1 @@
+execute as @a at @s as @e[type=armor_stand] if score @s uid = @p uid run tp @s ^-1 ^1 ^-1 facing ^ ^ ^
