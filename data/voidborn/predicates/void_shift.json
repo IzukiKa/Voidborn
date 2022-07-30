@@ -17,7 +17,7 @@
           "equipment": {
             "mainhand": {
               "items": [
-                "minecraft:golden_sword"
+                "minecraft:echo_shard"
               ],
               "nbt": "{voidborn:{item:\"void_shard\"}}"
             }
@@ -40,7 +40,7 @@
           "equipment": {
             "offhand": {
               "items": [
-                "minecraft:golden_sword"
+                "minecraft:echo_shard"
               ],
               "nbt": "{voidborn:{item:\"void_shard\"}}"
             }

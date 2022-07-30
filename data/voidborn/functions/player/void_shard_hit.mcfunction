@@ -1,1 +1,0 @@
-execute as @a[scores={void.void_shard_hit=1..}] run execute if data entity @s SelectedItem.tag.damage run function voidborn:player/void_shard_damage
