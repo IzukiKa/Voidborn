@@ -1,0 +1,315 @@
+[
+	{
+		"condition": "minecraft:location_check",
+		"predicate": {
+			"block": {
+				"tag": "voidborn:air"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/center_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/middle_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -2,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -2,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 2,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 2,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -1,
+        "offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 1,
+        "offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": -1,
+        "offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+		"offsetY": -1,
+        "offsetX": 1,
+        "offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/outer_block"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_bottom"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_bottom"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_bottom"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_bottom"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetY": 1,
+        "offsetX": -1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_top"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetY": 1,
+        "offsetX": -1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_top"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetY": 1,
+        "offsetX": 1,
+        "offsetZ": -1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_top"
+			}
+		}
+	},
+    {
+		"condition": "minecraft:location_check",
+        "offsetY": 1,
+        "offsetX": 1,
+        "offsetZ": 1,
+		"predicate": {
+			"block": {
+				"tag": "voidborn:void_altar/pillar_top"
+			}
+		}
+	}
+]
