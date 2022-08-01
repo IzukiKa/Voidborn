@@ -8,4 +8,4 @@ advancement grant @a[advancements={minecraft:end/kill_dragon=true}] only voidbor
 function voidborn:summoning_circle/create_circle
 function voidborn:summoning_circle/display_circle
 function voidborn:summoning_circle/animate_turning
-execute as @e[type=minecraft:armor_stand,tag=summoning_circle,tag=summoned_circle] run function voidborn:summoning_circle/animation_timer
+execute as @e[type=minecraft:armor_stand,tag=summoning_circle,tag=summoned_circle] run function voidborn:summoning_circle/animation_timerfunction voidborn:summoning_circle/main
