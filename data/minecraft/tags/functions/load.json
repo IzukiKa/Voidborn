@@ -1,6 +1,5 @@
 {
     "values": [
-        "voidborn:technical/init",
-        "testing:hologram_test/init"
+        "voidborn:technical/init"
     ]
 }

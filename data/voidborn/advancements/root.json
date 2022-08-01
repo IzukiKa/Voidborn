@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:echo_shard",
+			"nbt": "{Enchantments:[{}]}"
+		},
+		"title": {
+			"translate": "Voidborn"
+		},
+		"description": {
+			"translate": "A post-end datapack by IzukiKa"
+		},
+		"background": "minecraft:textures/block/coal_block.png",
+		"frame": "goal",
+		"show_toast": false,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}
