@@ -1,0 +1,26 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"player": {
+					"type": "minecraft:player",
+					"equipment": {
+						"mainhand": {
+							"items": [
+								"minecraft:echo_shard"
+							],
+							"nbt": "{voidborn:{item:\"void_shard\"}}"
+						}
+					}
+				},
+				"entity": {
+					"type": "minecraft:ender_dragon"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "voidborn:void_shard/charge"
+	}
+}
