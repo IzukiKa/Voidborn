@@ -5,5 +5,4 @@ execute as @a if predicate voidborn:holding/holding_void_shard run function void
 
 advancement grant @a[advancements={minecraft:end/kill_dragon=true}] only voidborn:root
 
-function voidborn:summoning_circle/main
 function voidborn:void_altar/recipies

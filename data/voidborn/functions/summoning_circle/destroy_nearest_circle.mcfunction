@@ -1,3 +1,0 @@
-execute as @e[type=armor_stand,tag=summoning_circle,limit=1,sort=nearest,distance=..10] run kill @e[type=armor_stand,tag=summoning_circle_one,limit=1,sort=nearest]
-execute as @e[type=armor_stand,tag=summoning_circle,limit=1,sort=nearest,distance=..10] run kill @e[type=armor_stand,tag=summoning_circle_two,limit=1,sort=nearest]
-execute as @e[type=armor_stand,tag=summoning_circle,limit=1,sort=nearest,distance=..10] run kill @s
