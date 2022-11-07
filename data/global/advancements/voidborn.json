@@ -9,12 +9,10 @@
 		"description": {
 			"translate": "A post-end datapack"
 		},
-		"background": "minecraft:textures/block/coal_block.png",
-		"frame": "challenge",
 		"show_toast": false,
-		"announce_to_chat": true,
-		"hidden": false
+		"announce_to_chat": false
 	},
+	"parent": "global:izukika",
 	"criteria": {
 		"requirement": {
 			"trigger": "minecraft:tick"
