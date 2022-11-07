@@ -1,0 +1,128 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Void Shard [5/5]",
+      "color": "dark_purple",
+      "italic": false
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{voidborn:{durability:5}}"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Void Shard [4/5]",
+      "color": "dark_purple",
+      "italic": false
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{voidborn:{durability:4}}"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Void Shard [3/5]",
+      "color": "dark_purple",
+      "italic": false
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{voidborn:{durability:3}}"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Void Shard [2/5]",
+      "color": "dark_purple",
+      "italic": false
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{voidborn:{durability:2}}"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Void Shard [1/5]",
+      "color": "dark_purple",
+      "italic": false
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{voidborn:{durability:1}}"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Void Shard [0/5]",
+      "color": "dark_purple",
+      "italic": false
+    },
+    "conditions": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "nbt": "{voidborn:{durability:0}}"
+            }
+          }
+        }
+      }
+    ]
+  }
+]
