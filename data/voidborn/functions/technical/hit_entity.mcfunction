@@ -4,6 +4,7 @@ tag @s[advancements={voidborn:technical/player_hit_entity={direct=true}}] add vo
 
 scoreboard players reset $wep void.dummy
 
+execute if entity @s[tag=void.direct, predicate=voidborn:holding/echoing_sword] run scoreboard players set $wep void.dummy 1
 
 execute if entity @s[advancements={voidborn:technical/player_hit_entity={target=true}}] run function voidborn:player/event/on_hit/find_entity
 

@@ -1,5 +1,6 @@
 schedule function voidborn:clocks/1t 1t replace
 
+execute as @e[tag=void.echo_attack] at @s run function voidborn:echoing_sword/echo_prep
 
 execute as @a run function voidborn:player/main
 scoreboard players add @a[tag=void.void_shift] void.voidshift_timer 1
