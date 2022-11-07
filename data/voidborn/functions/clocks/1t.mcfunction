@@ -5,5 +5,9 @@ execute as @a if predicate voidborn:holding/holding_void_shard_mainhand store re
 execute as @a if predicate voidborn:holding/holding_void_shard run function voidborn:void_shard/display
 execute as @e if predicate voidborn:item/is_void_shard run execute store result entity @s Item.tag.voidborn.unstackable int 1 run time query gametime
 
+execute as @e[type=#voidborn:mobs_no_player, tag=!void.checked] at @s run function voidborn:technical/mob/init
+execute as @e[type=#voidborn:mobs_no_player] unless score @s void.eid matches 0..32767 run function voidborn:technical/entity_id/check
+# execute as @e[type=!#voidborn:not_mob, tag=void.ticking_entity] at @s run function voidborn:entity/mob/main
+
 function voidborn:void_altar/recipies
 function voidborn:void_shard/voidshift
