@@ -1,3 +1,4 @@
+#say [Damage Entity]
 execute store result score @s void.entity_health run data get entity @s Health 100
 scoreboard players operation @s void.entity_damage *= #100 void.constants
 scoreboard players operation @s void.entity_health -= @s void.entity_damage

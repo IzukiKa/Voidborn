@@ -1,3 +1,4 @@
+#say [Apply]
 execute if entity @s[type=minecraft:player] run function voidborn:damage/entity/health/calculate_modifier
 execute if entity @s[type=!minecraft:player] run function voidborn:damage/entity/health/get_entity_health
 
