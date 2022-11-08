@@ -1,3 +1,4 @@
+#say [Finding entity..]
 scoreboard players set $eid void.dummy 0
 
 execute if entity @s[advancements={voidborn:technical/player_hit_entity={bit0=true}}] run scoreboard players add $eid void.dummy 1

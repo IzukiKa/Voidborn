@@ -1,3 +1,4 @@
+#say [Detected hit..]
 tag @s add void.self
 
 tag @s[advancements={voidborn:technical/player_hit_entity={direct=true}}] add void.direct
