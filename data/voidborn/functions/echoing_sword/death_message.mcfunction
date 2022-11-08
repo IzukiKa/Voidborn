@@ -1,0 +1,1 @@
+execute if entity @s[tag=void.echo_attack] run tellraw @a [{"selector":"@s"}," couldn't withstand the backlash.."]
