@@ -1,0 +1,23 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cooked_porkchop",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{voidborn:{item:\"void_corn\"},CustomModelData:1000000,display:{Name:'[{\"text\":\"Void Corn\",\"italic\":false}]',Lore:['[{\"text\":\"The flavour feels almost\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"empty... It\\'s still very\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"sweet though!\",\"italic\":false,\"color\":\"dark_aqua\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"[Unique Food]\",\"italic\":true,\"color\":\"gold\"},{\"text\":\"\",\"italic\":true,\"color\":\"dark_purple\"}]','[{\"text\":\"[Voidborn]\",\"italic\":true,\"color\":\"gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
