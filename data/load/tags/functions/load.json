@@ -2,6 +2,7 @@
   "values": [
     "#smithed.damage:load",
     "smithed.damage:impl/v0.0.4/technical/def_const",
-    "#eidmatch:init/load"
+    "#eidmatch:init/load",
+    "#voidborn:init/load"
   ]
 }

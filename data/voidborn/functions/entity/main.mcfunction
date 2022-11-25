@@ -1,0 +1,1 @@
+execute if entity @s[tag=void.echo_attack] run function voidborn:items/echoing_sword/prep

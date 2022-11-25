@@ -1,3 +1,5 @@
 {
-    "values": []
+    "values": [
+        "voidborn:items/echoing_sword/death_message"
+    ]
 }

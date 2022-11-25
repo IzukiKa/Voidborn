@@ -1,0 +1,1 @@
+execute if entity @s[tag=eid.direct, predicate=voidborn:holding/echoing_sword] run scoreboard players set $wep eid.dummy 763000001

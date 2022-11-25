@@ -1,0 +1,1 @@
+execute if score $wep eid.dummy matches 763000001 at @s run function voidborn:items/echoing_sword/on_hit
