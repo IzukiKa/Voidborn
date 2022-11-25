@@ -1,0 +1,8 @@
+{
+    "description": "All mob entities",
+    "values": [
+      "minecraft:player",
+      "#eidmatch:mobs_no_player"
+    ]
+  }
+  
