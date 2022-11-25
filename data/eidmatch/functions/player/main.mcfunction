@@ -1,0 +1,1 @@
+execute unless score @s eid.eid matches 0..32767 run function eidmatch:eid/check
