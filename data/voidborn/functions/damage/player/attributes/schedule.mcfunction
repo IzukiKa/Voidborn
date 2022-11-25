@@ -1,1 +1,0 @@
-execute as @a[tag=void.damage.damage_applied] run function voidborn:damage/player/attributes/remove
