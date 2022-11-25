@@ -1,0 +1,31 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:nether_star"
+		},
+		"title": {
+			"translate": "Neverending Emptiness"
+		},
+		"description": {
+			"translate": "Kill a Void Guardian and collect the gem buried in its crown"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"parent": "voidborn:root",
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:nether_star",
+						"nbt": "{voidborn:{item:\"void_fragment\"}}"
+					}
+				]
+			}
+		}
+	}
+}
