@@ -1,0 +1,1 @@
+function voidborn:multiblocks/void_altar/recipes

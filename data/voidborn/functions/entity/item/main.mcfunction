@@ -1,0 +1,1 @@
+execute as @s at @s run function voidborn:multiblocks/main
