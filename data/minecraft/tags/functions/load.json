@@ -1,5 +1,5 @@
 {
-    "values": [
-        "voidborn:technical/init"
-    ]
+  "values": [
+    "#load:_private/load"
+  ]
 }

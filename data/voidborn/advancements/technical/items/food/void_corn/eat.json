@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "nbt": "{voidborn:{item:\"void_corn\"}}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "voidborn:items/food/void_corn/eat"
+    }
+  }
+  

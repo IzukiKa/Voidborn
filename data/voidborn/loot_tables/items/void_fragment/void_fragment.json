@@ -13,7 +13,7 @@
                         },
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:121212,voidborn:{item:\"void_fragment\"},display:{Name:'[{\"text\":\"Fragment of the Void\",\"italic\":false,\"bold\":true,\"color\":\"gold\"}]',Lore:['[{\"text\":\"As you hold this in your hands\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"you feel nothing but emptiness\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"and a longing to touch the void.\",\"italic\":false,\"color\":\"dark_aqua\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Boss Drop\",\"italic\":true,\"color\":\"gold\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"[Voidborn]\",\"italic\":true,\"color\":\"gray\"}]']}}"
+                            "tag": "{CustomModelData:763000003,voidborn:{item:\"void_fragment\"},display:{Name:'[{\"text\":\"Fragment of the Void\",\"italic\":false,\"bold\":true,\"color\":\"gold\"}]',Lore:['[{\"text\":\"As you hold this in your hands\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"you feel nothing but emptiness\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"and a longing to touch the void.\",\"italic\":false,\"color\":\"dark_aqua\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Boss Drop\",\"italic\":true,\"color\":\"gold\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"[Voidborn]\",\"italic\":true,\"color\":\"gray\"}]']}}"
                         }
                     ]
                 }

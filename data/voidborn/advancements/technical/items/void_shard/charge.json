@@ -1,0 +1,52 @@
+{
+    "criteria": {
+      "mainhand": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player",
+            "equipment": {
+              "mainhand": {
+                "items": [
+                  "minecraft:echo_shard"
+                ],
+                "nbt": "{voidborn:{item:\"void_shard\"}}"
+              }
+            }
+          },
+          "entity": {
+            "type": "minecraft:ender_dragon"
+          }
+        }
+      },
+      "offhand": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player",
+            "equipment": {
+              "offhand": {
+                "items": [
+                  "minecraft:echo_shard"
+                ],
+                "nbt": "{voidborn:{item:\"void_shard\"}}"
+              }
+            }
+          },
+          "entity": {
+            "type": "minecraft:ender_dragon"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "mainhand",
+        "offhand"
+      ]
+    ],
+    "rewards": {
+      "function": "voidborn:items/void_shard/charge"
+    }
+  }
+  

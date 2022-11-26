@@ -13,7 +13,7 @@
                         },
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:1000000,voidborn:{item:\"echoing_sword\"},display:{Name:'[{\"text\":\"Echoing Sword\",\"italic\":false,\"bold\":true,\"color\":\"dark_purple\"}]',Lore:['[{\"text\":\"The sword hums as you hold it in your\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"hand. It almost feels like its echoing\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"your movements...\",\"italic\":false,\"color\":\"dark_aqua\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"[Voidborn]\",\"italic\":true,\"color\":\"gray\"}]']}}"
+                            "tag": "{CustomModelData:763000001,voidborn:{item:\"echoing_sword\"},display:{Name:'[{\"text\":\"Echoing Sword\",\"italic\":false,\"bold\":true,\"color\":\"dark_purple\"}]',Lore:['[{\"text\":\"The sword hums as you hold it in your\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"hand. It almost feels like its echoing\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"your movements...\",\"italic\":false,\"color\":\"dark_aqua\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"[Voidborn]\",\"italic\":true,\"color\":\"gray\"}]']}}"
                         }
                     ]
                 }
