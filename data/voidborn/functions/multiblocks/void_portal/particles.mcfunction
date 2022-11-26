@@ -1,3 +1,5 @@
+scoreboard players remove @s void.dummy 1
+execute if score @s void.dummy matches ..-1200 run function voidborn:multiblocks/void_portal/remove
 particle dust 0.624 0.086 0.831 1 ^0.0 ^0.0 ^ 0.1 0.1 0.1 1 1 
 particle dust 0.624 0.086 0.831 1 ^0.2 ^0.2 ^ 0.1 0.1 0.1 1 1 
 particle dust 0.624 0.086 0.831 1 ^-0.2 ^0.2 ^ 0.1 0.1 0.1 1 1 
