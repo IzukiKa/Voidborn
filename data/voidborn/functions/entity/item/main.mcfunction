@@ -1,1 +1,1 @@
-execute as @s at @s run function voidborn:multiblocks/main
+execute as @s at @s align xyz positioned ~0.5 ~0.5 ~0.5 run function voidborn:multiblocks/main
