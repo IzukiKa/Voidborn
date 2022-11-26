@@ -1,0 +1,2 @@
+execute if predicate voidborn:item/is_void_shard run execute store result score @s void.dummy run data get entity @s Item.tag.voidborn.durability
+execute if predicate voidborn:item/is_charged_void_shard unless entity @e[type=marker,tag=void.void_portal,limit=1,sort=nearest,distance=0..1] run function voidborn:multiblocks/void_portal/create

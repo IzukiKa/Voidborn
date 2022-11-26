@@ -1,1 +1,2 @@
 execute if predicate voidborn:multiblocks/void_altar run function voidborn:multiblocks/void_altar/recipes
+execute if predicate voidborn:multiblocks/void_portal run function voidborn:multiblocks/void_portal/check

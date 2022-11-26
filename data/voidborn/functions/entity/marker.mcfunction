@@ -1,0 +1,1 @@
+execute if entity @s[tag=void.void_portal] facing entity @p feet run function voidborn:multiblocks/void_portal/particles
